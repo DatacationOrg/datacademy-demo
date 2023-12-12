@@ -1,14 +1,15 @@
-# Datacademy V2
+# Datacademy Demo
 
-> This version is currently **under construction**.
+The Datacademy, presented by Datacation B.V., provides this repository containing various exercises designed to enhance your Data Science skills. 
+As you will notice, the modules listed above or on the left side correspond to the theoretical segments found in Easy-LMS. 
+Upon completing a theoretical section in Easy-LMS, you'll be prompted to access the relevant files in this repository. 
+The exercises in most modules are conducted using Notebooks, whose format conveniently allows for text to be interspersed between code cells, guiding you through each exercise.
 
-The Datacademy Bootcamp is brought to you by Datacation B.V. This repository contains all exercises to test your Data Science skills. As can be seen, the modules above or on the left side correspond to the theoretical part in Easy-LMS. After completing a theoretical part on Easy-LMS you will be asked to open the corresponding files in this repository. Most modules use Notebooks for the exercises. The structure of a Notebook lends itself to add tekst between code cells, which will guide you through the exercises.
+As you progress, however, you will encounter later modules that predominantly use plain Python files. This is because some required functionalities are not compatible with Notebooks. Having gained some experience in coding, we anticipate that you will adapt to this change without significant difficulty. Additionally, working with plain Python files is a common practice in the field, and this experience will be valuable for your professional development.
 
-However, later modules will mostly be written in actual plain Python files. The reason for this being that some of the functionalities needed are not supported in Notebooks. However after already written some code we suspect that you will not face too much difficulties doing this. Besides, in practice most code you will find and work with will be in plain Python files, making it a good practice.
+We wish you not only success but also a great deal of enjoyment as you take your first steps on your data journey!
 
-We wish you good luck, but above all a lot of fun, making your first steps of your data journey!
-
-Best regards, Team Datacation.
+Best regards, Team Datacademy.
 
 ## Installation instructions
 
@@ -16,7 +17,7 @@ Best regards, Team Datacation.
 The Datacademy supports **Python version 3.10 and higher**. If you do not have Python installed, you can simply do so from the [Python website](https://www.python.org/downloads/).
 
 ### Step 1. Install and set up the package manager
-1. Open this folder in [VS Code](https://code.visualstudio.com/) or your favorite code editor.
+1. Open this folder in [VS Code](https://code.visualstudio.com/).
 2. Open a terminal and execute the following commands:
 
 ```bash
